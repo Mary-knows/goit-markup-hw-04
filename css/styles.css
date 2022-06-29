@@ -254,7 +254,8 @@ img {
     margin-bottom: 30px;
     align-items: center;
     justify-content: center;
-    
+
+    border-radius: 4px;
     background-color: var(--background-lightgray-color);
 }
 
@@ -584,7 +585,7 @@ img {
 }
 
 .examples-name {
-    margin: 20px 24px;
+    padding: 20px 24px;
 }
 
 
